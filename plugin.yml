@@ -1,0 +1,9 @@
+name: SolarASkyBlockChat
+main: Solar.Chat.Main.Main
+version: 1
+depend: [ASkyBlock , Essentials , PermissionsEx]
+commands:
+    caidat:
+        description: Such Wow , much Wow
+    chattime:
+        description: Such Wow , much Wow
